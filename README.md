@@ -5,8 +5,9 @@ A react application that simulates working of a shopping cart.
 - React with TypeScript
 - React Query
 - Uses FakeStoreAPI
+- Material UI
 
-Deployed on [Netlify](https://ttahm3d.github.io)
+Deployed on [Netlify](https://shopping-cart-typescript-tahir.netlify.app/)
 
 To run
 
